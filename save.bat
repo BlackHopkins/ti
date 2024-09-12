@@ -1,4 +1,4 @@
-git add . 
+git add -A
 git commit -m 'commit'
 git push
 set /p DUMMY=Hit ENTER to continue...
